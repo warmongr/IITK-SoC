@@ -1,0 +1,40 @@
+.header{
+  border-style: inset;
+  padding: 20px;
+  background-image: url('a2.jpg');
+  background-size: 100%,100%;
+background-repeat: no-repeat;
+}
+
+
+h1.head1{
+
+  font-size: 40px;
+  font-style: bold;
+  color: rgb(167, 133, 82);
+}
+.timing{
+  text-align: left;
+}
+.body{
+  text-align: center;
+  padding: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: outset;
+  font-size: 20px;
+
+  font-style: oblique;
+
+}
+
+body, html {
+  height: 100%;
+  }
+.bg4 {
+  background-image: url("image.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+  }
